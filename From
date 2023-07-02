@@ -1,0 +1,32 @@
+/* ================================= */
+/* ===============Form================= */
+/* ================================= */
+
+.Form-Main-Box {
+  background-color: #d09f9f;
+  max-width: 899px;
+  border-radius: 1%;
+}
+
+.Form-font {
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  font-size: 4.1rem;
+  text-decoration: none;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.Form-Button {
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  font-size: 4.1rem;
+  text-decoration: none;
+  color: #01161e;
+  border: 1px solid #01161e;
+  border-radius: 5%;
+  padding: 1rem;
+  background-color: #ffdab9;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
